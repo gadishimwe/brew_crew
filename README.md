@@ -1,8 +1,16 @@
 # Brew Crew
 
-Brew Crew (Flutter application)
+Brew Crew, make your coffee preferences easily.
 
-![image](/assets/image.png)
+## Usage
+
+- Sign up with your email address
+- After sign up or in, you can see everyone's profile preferences
+- Click settings to update your profile preferences
+
+![image](/assets/image1.png)
+![image](/assets/image2.png)
+![image](/assets/image3.png)
 
 ## Getting Started
 
